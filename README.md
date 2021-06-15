@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harwood42
-- 👀 I’m interested in Program Management of the SDLC, golf & guitar
+- 👀 I’m interested in Program Management of the SDLC, playing golf, guitars & video games.
 - 🌱 I’m currently studying Jira Admin ACP-620
 - 📫 How to reach me j.harwood@arkoselabs.com 
 
